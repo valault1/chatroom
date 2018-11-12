@@ -1,0 +1,14 @@
+{
+  "name": "chatroom",
+  "version": "1.0.0",
+  "description": "networks app",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Hudson and Val",
+  "license": "ISC",
+  "dependencies": {
+    "electron": "^3.0.8"
+  }
+}
